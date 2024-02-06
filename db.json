@@ -1,0 +1,105 @@
+{
+    "products": [
+      {
+        "image": "https://down-id.img.susercontent.com/file/1aa09436151ab754e22bd6523307ba38",
+        "nama_costume": "Cosplay Elaina",
+        "ukuran": "Biasa milih sendiri",
+        "harga": 235000
+      },
+      {
+        "image": "https://i.ebayimg.com/images/g/hTsAAOSwl01kLo2K/s-l1600.jpg",
+        "nama_costume": "Cosplay Mahiru Shiina",
+        "ukuran": "Biasa milih sendiri",
+        "harga": 235000
+      },
+      {
+        "image": "https://down-vn.img.susercontent.com/file/47c1ca5d3042280cccc3588c6a5cf397",
+        "nama_costume": "Cosplay Hutao",
+        "ukuran": "Biasa milih sendiri",
+        "harga": 235000
+      }    
+    ],
+
+    "figuran_anime": [
+        {
+            "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/11/26/d9997889-c405-4cd6-94e7-37b12b4f8f6e.jpg?ect=4g",
+            "nama_figuran": "Cosplay Elaina",
+            "ukuran": "Biasa milih sendiri",
+            "harga": 235000
+          },
+          {
+            "image": "https://titipjepang.com/wp-content/uploads/2023/12/POTX-1223239-Nendoroid-Tiny-Tina-300x300.jpg",
+            "nama_figuran": "Cosplay Mahiru Shiina",
+            "ukuran": "Biasa milih sendiri",
+            "harga": 235000
+          },
+          {
+            "image": "https://stbincproditemx.blob.core.windows.net/sku/images/6123/original/91015-nendoroid-doll-kaguya-shinomiya.jpg",
+            "nama_figuran": "Cosplay Hutao",
+            "ukuran": "Biasa milih sendiri",
+            "harga": 235000
+          }
+    ],
+
+    "hodie_anime": [
+        {
+            "image": "ttps://img.ws.mms.shopee.co.id/sg-11134201-23010-4id9ovubczmv0c",
+            "nama_hodie": "Hodie anime",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 245000
+        },
+        {
+            "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/6e0c261b-d65b-4de3-9b6f-8a2d32ba6dbf.jpg",
+            "nama_hodie": "Hodie anime",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 245000
+        },
+        {
+            "image": "https://tokoanime.myhobbytown.com/wp-content/uploads/2022/09/hololive-hoodie-ookami-mio-red2.jpg",
+            "nama_hodie": "Hodie anime",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 245000
+        }
+    ],
+
+    "gantungan_kunci_anime": [
+        {
+            "image": "https://down-id.img.susercontent.com/file/d010c59bd0cf924d7fdecd0e9ca6ecc7",
+            "nama_gantungan_kunci": "Hodie anime",
+            "harga": 245000
+        },
+        {
+            "image": "https://filebroker-cdn.lazada.co.id/kf/S1fe27516f32041c2ab2292f9e21651a4L.jpg",
+            "nama_gantungan_kunci": "Hodie anime",
+            "harga": 245000
+        },
+        {
+            "image": "https://images.tokopedia.net/img/cache/250-square/hDjmkQ/2022/10/10/21658096-f54f-4590-89e0-84446e268d4f.jpg?ect=4g",
+            "nama_gantungan_kunci": "Hodie anime",
+            "harga": 245000
+        }
+    ],
+
+    "poster_anime": [
+        {
+            "image": "https://img.ws.mms.shopee.co.id/41b0dd520e9dac710c8e688c83f36a27",
+            "nama_poster": "Anime post",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 2000
+        },
+        {
+            "image": "https://img.lazcdn.com/g/p/17c85337b64df1970624c2709540ad05.jpg_720x720q80.jpg",
+            "nama_poster": "Anime post",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 2000
+        },
+        {
+            "image": "https://ih1.redbubble.net/image.5031880650.5875/fposter,small,wall_texture,square_product,600x600.webp",
+            "nama_poster": "Anime post",
+            "ukuran": "Bisa pilih sendiri",
+            "harga": 2000
+        }
+    ]
+
+   
+  }
